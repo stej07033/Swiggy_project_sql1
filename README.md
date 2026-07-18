@@ -10,4 +10,5 @@ Swiggy SQL Data Analysis Project – A PostgreSQL project that analyzes Swiggy r
  * Generate business insights from restaurant data.
  * Improve SQL problem-solving and analytical skills.
 
-## 📂 Dataset()
+## 📂 Dataset(https://github.com/stej07033/Swiggy_project_sql1/blob/main/archive%20(6).zip)
+
