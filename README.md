@@ -4,3 +4,4 @@ Swiggy SQL Data Analysis Project – A PostgreSQL project that analyzes Swiggy r
 ![swiggy logo](https://github.com/stej07033/Swiggy_project_sql1/blob/main/swiggy_logo.png)
 
 ## Objective
+https://github.com/stej07033/Swiggy_project_sql1/blob/main/swiggy_logo.png
