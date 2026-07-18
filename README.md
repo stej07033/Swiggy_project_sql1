@@ -28,4 +28,6 @@ The dataset contains restaurant information such as:
 - SQL
 - CSV Dataset
 - pgAdmin 4
-- 
+
+## Solutions(https://github.com/stej07033/Swiggy_project_sql1/blob/main/swiggy_project.sql)
+
