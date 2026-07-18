@@ -159,8 +159,7 @@ order by total_ratings desc,price asc;
 select *
 from
 (
-```sql
-    select *,
+ select *,
 	row_number() over(partition by city order by price asc) as rn
 	from swiggy
 )t
