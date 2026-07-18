@@ -493,6 +493,58 @@ end as discount
 from swiggy;
 ```
 
+## 📊 SQL Concepts Covered
+- SELECT Statements
+- WHERE Clause
+- ORDER BY
+- LIMIT
+- Aggregate Functions
+- GROUP BY
+- HAVING
+- CASE Statements
+- String Functions
+- Date Functions
+- Business Analytics Queries
+
+## 📈 Sample Analysis
+- Top-rated restaurants
+- Most expensive restaurants
+- Fastest delivery restaurants
+- Restaurants with highest ratings
+- Average price by city
+- Restaurant ranking using Window Functions
+- Food category analysis
+- Delivery time analysis
+- Price segmentation
+- Customer rating insights
+
+## 📁 Repository Structure
+```
+Swiggy-SQL-Project/
+│
+├── swiggy_project.sql
+├── swiggy_dataset.csv
+└── README.md
+```
+## 🎯 Learning Outcomes
+
+- Writing optimized SQL queries
+- Performing business data analysis
+- Using PostgreSQL for real-world datasets
+- Understanding SQL Window Functions
+- Practicing advanced SQL concepts
+
+## 👩‍💻 Author
+
+**SAI M**
+
+ | Power bi | PostgreSQL | Python | MYsql | Aspiring Data Analyst
+
+- 📂 GitHub: https://github.com/stej07033
+- 💼 LinkedIn: https://www.linkedin.com/in/madanapalli-sai-19b835389
+- 📄 Resume: https://drive.google.com/file/d/1XADghy4C0PWW03jkAkpOiRHkFuLIOXwR/view?usp=sharing
+
+
 
 
 
