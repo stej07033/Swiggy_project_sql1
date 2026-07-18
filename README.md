@@ -94,8 +94,7 @@ where price between 200 and 500
 select *
 from
 (
-```sql
-   select *,
+  select *,
      row_number() over(order by id) as  rn
 	from swiggy
 )t
