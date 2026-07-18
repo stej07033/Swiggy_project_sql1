@@ -91,7 +91,8 @@ where price between 200 and 500
 --- 5)Display every third record from the table based on Restaurant ID.
 
 ```sql
-select * from
+select *
+from
 (
 ```sql
    select *,
