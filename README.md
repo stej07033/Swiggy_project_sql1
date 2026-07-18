@@ -11,4 +11,21 @@ Swiggy SQL Data Analysis Project – A PostgreSQL project that analyzes Swiggy r
  * Improve SQL problem-solving and analytical skills.
 
 ## 📂 Dataset(https://github.com/stej07033/Swiggy_project_sql1/blob/main/archive%20(6).zip)
+The dataset contains restaurant information such as:
+- Restaurant ID
+- Restaurant Name
+- Area
+- City
+- Price
+- Average Ratings
+- Total Ratings
+- Food Type
+- Address
+- Delivery Time
 
+## 🛠️ Technologies Used
+- PostgreSQL
+- SQL
+- CSV Dataset
+- pgAdmin 4
+- 
