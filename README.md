@@ -188,7 +188,6 @@ order by delivery_time asc,total_ratings desc;
 select *
 from
 (
-```sql
    select *,
    row_number() over(partition by city order by price desc) as rnk
    from swiggy
