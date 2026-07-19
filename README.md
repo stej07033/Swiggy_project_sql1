@@ -503,7 +503,6 @@ from swiggy;
 - HAVING
 - CASE Statements
 - String Functions
-- Date Functions
 - Business Analytics Queries
 
 ## 📈 Sample Analysis
