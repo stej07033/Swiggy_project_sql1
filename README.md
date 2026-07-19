@@ -10,7 +10,7 @@ Swiggy SQL Data Analysis Project – A PostgreSQL project that analyzes Swiggy r
  * Generate business insights from restaurant data.
  * Improve SQL problem-solving and analytical skills.
 
-## 📂 Dataset(https://github.com/stej07033/Swiggy_project_sql1/blob/main/archive%20(6).zip)
+## 📂 Dataset(https://www.kaggle.com/code/aryantiwari123/netflix-movies-and-tv-shows)
 The dataset contains restaurant information such as:
 - Restaurant ID
 - Restaurant Name
