@@ -1,4 +1,4 @@
-                                         # Swiggy_project_sql1
+## Swiggy project
 
 ![swiggy logo](https://github.com/stej07033/Swiggy_project_sql1/blob/main/swiggy_logo.png)
 
